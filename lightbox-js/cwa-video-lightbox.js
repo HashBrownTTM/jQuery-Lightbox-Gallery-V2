@@ -63,6 +63,8 @@ function videoLightbox(arrVideos, selectedIndex){
         let videoContainer = $(`
             <video controls disablepictureinpicture autoplay>
                 <source type="video/mp4">
+                <source type="video/webm">
+                <source type="video/ogg">
                 Your browser does not support the video tag.
             </video>`);
         videoContainer.prop("volume", 0.35);
