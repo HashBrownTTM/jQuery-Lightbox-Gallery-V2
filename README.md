@@ -99,6 +99,8 @@ newVideo.onloadedmetadata = function(){
 > *[cwa-media-lightbox.js](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery-V2/blob/main/lightbox-js/cwa-media-lightbox.js)*
 > 
 > In this instance, specifying what the media types are is needed, as seen in this JSON data (of course there are other ways of doing this):
+>
+>> Note for the iframe: the url/link is the link that will be in the src of the HTML iframe tag
 
 ~~~
 [
