@@ -8,7 +8,7 @@ Table of Contents:
 - [`2. Usage`](#2-usage)
   - [`i. for images`](#i-for-images)
   - [`ii. for videos`](#ii-for-videos)
-  - [`iii. iii. for multimedia (images, videos, iframes)`](#iii-for-multimedia-images-videos-iframes)
+  - [`iii. for multimedia (images, videos, iframes)`](#iii-for-multimedia-images-videos-iframes)
 
 ## 1. Demo
 
